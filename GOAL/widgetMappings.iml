@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgetMappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ingenico.com/schemas/widgetmappings/1_0">
+  <widgetMapping idname="DATE_SCREEN_EDIT_DATE" idval="1"/>
+  <widgetMapping idname="DATE_SCREEN_BUTTON_OK" idval="2"/>
+  <widgetMapping idname="GENERIC_BUTTON_CANCEL" idval="3"/>
+  <widgetMapping idname="ID_LABEL_4" idval="4"/>
+  <widgetMapping idname="ID_LABEL_5" idval="5"/>
+  <widgetMapping idname="ID_EDIT_6" idval="6"/>
+  <widgetMapping idname="ID_BUTTON_7" idval="7"/>
+  <widgetMapping idname="ID_BUTTON_8" idval="8"/>
+  <widgetMapping idname="ID_BUTTON_9" idval="9"/>
+  <widgetMapping idname="ID_LABEL_10" idval="10"/>
+  <widgetMapping idname="ID_LABEL_11" idval="11"/>
+</widgetMappings>

@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG_T2/TONY.axf  :
+section             size      addr
+.text              33584      4096
+.rodata             3356     37680
+.data               1692   2097152
+.bss                1080   2098844
+.ARM.attributes       16         0
+.comment              35         0
+.debug_abbrev      17945         0
+.debug_info       105304         0
+.debug_line        21142         0
+.debug_frame        5108         0
+.debug_pubnames     3631         0
+.debug_aranges      1824         0
+.debug_str         13907         0
+.debug_loc         33667         0
+.debug_ranges        832         0
+Total             243123
+
+
